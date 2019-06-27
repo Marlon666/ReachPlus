@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/limuzi/eclipse-laiOfferProject/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+232342785.index
+3413882580.index
+851529455.index
+940264208.index
+138790253.index
+3026521838.index
